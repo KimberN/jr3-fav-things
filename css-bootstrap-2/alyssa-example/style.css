@@ -1,0 +1,19 @@
+body {
+  background-color: #f2f2f2;
+}
+
+#side {
+  background-color: rebeccapurple;
+}
+
+#main {
+  background-color: aqua;
+}
+
+.tile {
+  border: 1px solid black;
+}
+
+
+
+
