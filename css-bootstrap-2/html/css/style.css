@@ -39,29 +39,16 @@
    color: white;
 }
 
-.text{
-   
-}
-
-.container{ 
-  
-   
-}
 img{
    padding:5px
 }
-.row{
 
-}
 #left{
    background-color: aliceblue;
    :5px
 }
 #right{
-
-}
-.nav{
-   padding:10;
+max-width: 650px
 }
 
 .col-4 h3{
@@ -72,8 +59,10 @@ img{
    padding-top: 15px;
    border-color: #4CAF50;
 }
-.text-center p-3{
+.text{
    color: lavenderblush;
-   text-emphasis-color: blue;
-   background-color: rgba(0, 0, 0, 0.2);
+   background-color: rgba(54, 53, 53, 0.2);
+   height: 100px;
+   text-align: center;
+   line-height: 15px;
 }
