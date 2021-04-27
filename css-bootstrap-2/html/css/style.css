@@ -5,7 +5,7 @@
    background-color: #333;
    overflow: hidden;
  }
- 
+
  /* Style the links inside the navigation bar */
  .topnav a {
    float: left;
@@ -47,22 +47,32 @@ img{
    background-color: aliceblue;
    :5px
 }
+
 #right{
 max-width: 650px
 }
 
 .col-4 h3{
    padding-top: 15px;
-   
 }
+
 .col-8 h3{
    padding-top: 15px;
    border-color: #4CAF50;
 }
+
 .text{
    color: lavenderblush;
-   background-color: rgba(54, 53, 53, 0.2);
    height: 100px;
    text-align: center;
    line-height: 15px;
 }
+.bottom-nav {
+   background-color: rgb(148, 159, 152);
+   overflow: hidden;
+   height: 175px;
+   text-align: center;
+   padding: 80px;
+   font-size: 30px;
+   
+ }
